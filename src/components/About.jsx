@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 import Footer from './Footer'
 import HeaderMenu from './HeaderMenu'
 import SideBar from './SideBar'
-import EmailButton from './emailButton'
+import EmailButton from './EmailButton'
 import SideBarDesktop from './SideBarDesktop'
 import { motion } from 'framer-motion'
 
