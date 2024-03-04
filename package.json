@@ -8,8 +8,7 @@
     "build": "vite build",
     "lint": "standard",
     "preview": "vite preview",
-    "lint:fix": "standard --fix",
-    "deploy":"vite build && gh-pages -d dist"
+    "lint:fix": "standard --fix"
   },
   "dependencies": {
     "@nextui-org/react": "2.2.9",
