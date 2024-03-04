@@ -1,6 +1,6 @@
 'use client'
 
-import SideBar from '../components/SideBar'
+import SideBar from './SideBar'
 import HeaderMenu from './HeaderMenu'
 import Footer from './Footer'
 import EmailButton from './EmailButton'
